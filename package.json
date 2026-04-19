@@ -1,0 +1,23 @@
+{
+  "name": "enterprise-portal",
+  "version": "1.0.0",
+  "description": "EnterpriseHub - Unified Management Portal with Vercel Speed Insights",
+  "scripts": {
+    "start": "npx serve .",
+    "deploy": "vercel deploy"
+  },
+  "dependencies": {},
+  "devDependencies": {},
+  "keywords": [
+    "enterprise",
+    "portal",
+    "management",
+    "vercel",
+    "speed-insights"
+  ],
+  "author": "",
+  "license": "ISC",
+  "notes": {
+    "speedInsights": "Vercel Speed Insights is configured using the HTML5/vanilla JavaScript approach. The tracking script is loaded via /_vercel/speed-insights/script.js which will be automatically provided by Vercel when deployed. No npm package installation is required for this approach."
+  }
+}

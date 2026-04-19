@@ -1,0 +1,29 @@
+{
+  "name": "enterprise-portal",
+  "version": "1.0.0",
+  "description": "Enterprise Portal - Unified Management Portal",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"No tests specified\" && exit 0",
+    "build": "echo \"No build step required for static HTML\" && exit 0",
+    "lint": "echo \"No linter configured\" && exit 0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Ravikkharwar-hub/Enterprise-Portal.git"
+  },
+  "keywords": [
+    "enterprise",
+    "portal",
+    "management"
+  ],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Ravikkharwar-hub/Enterprise-Portal/issues"
+  },
+  "homepage": "https://github.com/Ravikkharwar-hub/Enterprise-Portal#readme",
+  "dependencies": {
+    "@vercel/speed-insights": "^1.1.0"
+  }
+}
